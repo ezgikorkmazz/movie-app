@@ -1,0 +1,13 @@
+.scroll-up-animation {
+  transition: transform 0.3s ease-in-out;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
+.image-modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
